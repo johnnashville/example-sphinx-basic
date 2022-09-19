@@ -1,4 +1,4 @@
-Example: Basic Sphinx project for Read the Docs
+First try of Clinspark docs with Sphinx 
 ===============================================
 
 .. image:: https://readthedocs.org/projects/example-sphinx-basic/badge/?version=latest
@@ -29,7 +29,7 @@ This example shows a basic Sphinx project with Read the Docs. You're encouraged 
     Contents of this ``README.rst`` are visible on Github and included on `the documentation index page <https://example-sphinx-basic.readthedocs.io/en/latest/>`_ (Don't Repeat Yourself).
 ⁉️ Questions / comments
     If you have questions related to this example, feel free to can ask them as a Github issue `here <https://github.com/readthedocs-examples/example-sphinx-basic/issues>`_.
-
+ 
 
 Example Project usage
 ---------------------
